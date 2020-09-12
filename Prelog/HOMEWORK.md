@@ -10,7 +10,7 @@
 
 ## 2.
 
-A következő állításokat fejezzétek ki változók, kvantorok és műveletek segítségével, és töltsétek fel ide a kurzuson bemutatott módon.
+A következő állításokat fejezzétek ki változók, kvantorok és műveletek segítségével, és töltsétek fel **[a Members mappa](https://github.com/Rajk-Prog1/prog1_2020_fall/tree/master/Members)** ```01_logic``` nevű almappájába a kurzuson bemutatott módon.
 
 **Predikátumok:**
 - F(x): *x férfi*
