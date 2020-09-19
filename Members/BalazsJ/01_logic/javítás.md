@@ -2,7 +2,7 @@
 
 #### Megoldásod:
 
-$\exists x(N(x) \land P(x) \land P(d,x)$
+$ \exists x(N(x) \land P(x) \land P(d,x) $
 
 #### Visszajelzés:
 
