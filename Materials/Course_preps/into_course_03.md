@@ -16,7 +16,7 @@ adjuk meg a legkisebb számot.
 
 5-8: Válasszatok ki az előző hétre általatok felküldött programozási problémák közül 4-et 
 és írjatok hozzá specifikációt. Próbáljatok meg olyan problémákat választani, 
-amihez nem szöveges specifikációt is tudtok írni. A bedobott problémákat [itt](Materials/Others/problems.md) találjátok összesítve.
+amihez nem szöveges specifikációt is tudtok írni. A bedobott problémákat [itt](https://github.com/Rajk-Prog1/prog1_2020_fall/blob/master/Materials/Others/problems.md) találjátok összesítve.
 
 +Nehéz feladat:
 
@@ -32,7 +32,7 @@ A házi megoldását **hétfő 20:00-ig** töltsétek fel a szokásos helyre.
 
 ## II.
 
-Telepítsétek fel a python-t a gépetekre a kurzus kezdetéig. Ehhez [itt](Materials/Tutorials/python_setup.md) találtok egy kis segítséget. 
+Telepítsétek fel a python-t a gépetekre a kurzus kezdetéig. Ehhez [itt](https://github.com/Rajk-Prog1/prog1_2020_fall/blob/master/Materials/Tutorials/python_setup.md) találtok egy kis segítséget. 
     
 
    
