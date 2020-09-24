@@ -36,8 +36,8 @@ MendolM
 5. Szomszédaink automatikus értesítése a nagyobb kollégiumi bulik előtt.
 
 PapaS
-[Itt](Members/PapS/02_specification_pairing/I_1.jpeg)
-[És itt](Members/PapS/02_specification_pairing/I_2.jpeg)
+[Itt](https://github.com/Rajk-Prog1/prog1_2020_fall/blob/master/Members/PapS/02_specification_pairing/I_1.jpeg)
+[és itt](https://github.com/Rajk-Prog1/prog1_2020_fall/blob/master/Members/PapS/02_specification_pairing/I_2.jpeg)
 
 TompaM
 
