@@ -15,6 +15,8 @@ BaratA
 3. Egy tömbben minden páratlan számot szorozzunk össze, a kapot eredményt pedig osszuk el a tömbben található számok összegével. Ha nincs a tömbben páratlan szám, akkor a páros számok összegét írjuk ki.
 4. Életkor alapján becsüljük meg, hogy egy kollégista hanyad éves lehet
 5. Számoljuk ki egy adott eszköz teljesítményét (Watt) a működéséhez szükséges feszültség (Volt) és áramerősség (Amper) alapján.
+5+1. Puzzle kirakása
+5+2. Hány éves a kapitány?
 
 KalotaiB
 
