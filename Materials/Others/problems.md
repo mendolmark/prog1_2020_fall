@@ -10,6 +10,12 @@ A 8x8-as táblán 8 királynővel a megoldás itt található: http://lambda.inf
 
 BaratA
 
+1. Számoljuk ki, hogy egy autó futásteljesítménye hányszorosa a Föld-Hold távolságnak.
+2. Hány tojásból készítsünk rántottát n emberre, ha 1 ember 2 tojást fogyaszt el.
+3. Egy tömbben minden páratlan számot szorozzunk össze, a kapot eredményt pedig osszuk el a tömbben található számok összegével. Ha nincs a tömbben páratlan szám, akkor a páros számok összegét írjuk ki.
+4. Életkor alapján becsüljük meg, hogy egy kollégista hanyad éves lehet
+5. Számoljuk ki egy adott eszköz teljesítményét (Watt) a működéséhez szükséges feszültség (Volt) és áramerősség (Amper) alapján.
+
 KalotaiB
 
 Hétfő 0. órai testnevelés órára Zoli bácsi megelégelte, hogy soha senki nem csinálja azt amit kér, ezért eldöntötte, hogy a specmatos osztálly tanulóitól kér segítséget, hogy minél kevesebb időt veszítsenek el az órákon a feladatkiosztással, akiknek az alábbi feladatokat kell „leprobramozniuk”:
