@@ -16,17 +16,23 @@ Ha megvan, hogy melyik szint az, ahol meg tudod oldani a feladatokat és nem is 
 ### 1.
 
 1.1 [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)
+
 1.2 [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
+
 1.3 [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
 
 ### 2.
 
 2.1 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)
+
 2.2 [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
+
 2.3 [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)
 
 ### 3. 
 
 3.1 [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)
+
 3.2 [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)
+
 3.3 [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)
