@@ -23,7 +23,7 @@ ha már megoldott esetleg korábban bármilyen okból egyet, keressen újat.
 
 **Kritériumok a csillag megszerzésének mikéntjéhez:**
 - Az inputot egy fájlból kell beolvasnia, erre van egy példa a rajkos jupyteren
- a kurzus mappájában a [minta](https://rajk.uni-corvinus.hu:8888/user/rajkjupyter/tree/notebooks/prog1-2020s/minta#notebooks) mappában, hogy hogyan kell.
+ a kurzus mappájában a [minta](https://rajk.uni-corvinus.hu/jhub/user/rajkjupyter/tree/notebooks/prog1-2020s/minta#notebooks) mappában, hogy hogyan kell.
 - Lehet nézegetni mások megoldásait, akár kollégistákét, akár az interneten,
   van egy csomó ilyen erőforrás, lehet találni githubon 
   [pythonosokat](https://github.com/madacoo/advent_of_code_2017),
