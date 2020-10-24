@@ -37,9 +37,28 @@ ha már megoldott esetleg korábban bármilyen okból egyet, keressen újat.
 
 Illetve itt egy másik, hasonló, 
 de nehézségében átláthatóbban differenciált gyakorlási lehetőség a Hackerrank.
-
 Itt van külön egy [python](https://www.hackerrank.com/domains/python) feladatokat tömörítő aloldal. 
-Illetve ezen belül is csoportokba vannak rendezve a feladatok. Nektek most az Introduction alá tartozó hét feladatot, a String alá tartozó String Split and Join feladatot (ez hasznos lesz a Lists feladathoz) és a Basic Data Types Lists és Nested Lists feladatait kell megoldanotok. Ez összesen 10 feladat. 
+Illetve ezen belül is csoportokba vannak rendezve a feladatok. 
+
+**Alap:**
+Nektek most az Introduction alá tartozó hét feladatot, a String alá tartozó String Split and Join feladatot (ez hasznos lesz a Lists feladathoz) és a Basic Data Types Lists és Nested Lists feladatait kell megoldanotok. Ez összesen 10 feladat. 
+
+**Haladók:**
+Nektek 6 feladatot kell megoldanotok összesen, amiben az előző heti bónusz feladatok is benne vannak. Ezek a következők:
+
+1. [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)
+
+2. [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
+
+3. [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)
+
+4. [ginortS](https://www.hackerrank.com/challenges/ginorts/problem)
+
+5. [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)
+
+6. [Words Score](https://www.hackerrank.com/challenges/words-score/problem)
+
+Illetve ha ezen átrágtátok magatokat akkor bónuszként ránézhettek [erre](https://www.codingame.com/ide/puzzle/code-vs-zombies) haladók.
 
 A hackerrankon a feladatok kódjait a saját beépített felületükön tudjátok megírni.
 A legtöbb esetben a kódotokat a "if __name__ == '__main__':" elágazáson belül kell megírnotok.
