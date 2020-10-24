@@ -1,17 +1,17 @@
 A következő kurzusra sok dolgotok van és nem is egyszerűek a házik, ezért ezeket előbb összeszedem egy listába aztán részletesen is kifejtem őket. 
-- 1 (új) csillag AoC-ban, amit nem a 2019-es feladatok közül választottatok.
+- 1 (új) csillag AoC-ban, haladóknak egy teljes nap.
 - Hackerrank python feladatok megoldása.
-- Nyílthelyi Zh kitöltése 04.07. kedd éjfélig.
+- Nyílthelyi Zh kitöltése 11.04. kurzus kezdetéig.
 
 ## [Advent of Code](https://adventofcode.com) (Aoc)
 
 Van egy baormi jó erőforrás, amiről már hallhattatok, ez az Advent of Code. 
 Itt van csomó érdekes programozási feladat amire le is tudod ellenőrizni a megoldásod. 
 
-Az alábbi négy linken találtok feladatokat, 
+Az alábbi öt linken találtok feladatokat, 
 megkérnék mindenkit, hogy keressen ezeken a linkeken egy feladatot,
-aminek legalább az egyik, 
-de jobb esetben mindkét alrészét megoldja és el tudja magyarázni hogyan:
+aminek az egyik, 
+haladók esetében mindkét alrészét megoldja és el tudja magyarázni hogyan:
 
 ha már megoldott esetleg korábban bármilyen okból egyet, keressen újat.
 
