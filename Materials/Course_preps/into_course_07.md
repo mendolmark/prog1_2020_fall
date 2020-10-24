@@ -28,7 +28,7 @@ ha már megoldott esetleg korábban bármilyen okból egyet, keressen újat.
   van egy csomó ilyen erőforrás, lehet találni githubon 
   [pythonosokat](https://github.com/madacoo/advent_of_code_2017),
   van saját [subredditje](https://www.reddit.com/r/adventofcode/) az AoC-nak,
-  mindent szabad. viszont **egy csillagot önállóan kell megszerezni**
+  mindent szabad. viszont **egy/kettő csillagot önállóan kell megszerezni**
   szóval ezeket inspirációnak és mintának lehet használni.
 - A megoldást tartalmazó jupyter notebookot vagy sima python fájlt
   és az inputot tartalmazó fájlt fel kell töltenetek a githubra a kurzusig.
