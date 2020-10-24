@@ -22,8 +22,8 @@ ha már megoldott esetleg korábban bármilyen okból egyet, keressen újat.
 - https://adventofcode.com/2019
 
 **Kritériumok a csillag megszerzésének mikéntjéhez:**
-- Az inputot egy fájlból kell beolvasnia, erre van egy példa a rajkos jupyteren
- a kurzus mappájában a [minta](https://rajk.uni-corvinus.hu/jhub/user/rajkjupyter/tree/notebooks/prog1-2020s/minta#notebooks) mappában, hogy hogyan kell.
+- Az inputot egy fájlból kell beolvasnia, erre van egy példa a repoban
+ [itt](https://github.com/Rajk-Prog1/prog1_2020_fall/blob/master/Materials/Tutorials/read_file.ipynb).
 - Lehet nézegetni mások megoldásait, akár kollégistákét, akár az interneten,
   van egy csomó ilyen erőforrás, lehet találni githubon 
   [pythonosokat](https://github.com/madacoo/advent_of_code_2017),
