@@ -9,7 +9,7 @@ nevű notebookot, amiben ki kell javítani a listából számoló sárkánymegta
     - itt a package [dokumentációja](https://jkg-evaluators.readthedocs.io/en/latest/), 
 azon belül [itt](https://jkg-evaluators.readthedocs.io/en/latest/notebooks/001-dragonfind.html) 
 
-**Haladó:** Oldjatok meg a HackerRanken 2 medium/4 easy/1 medium 2 easy feladatot. 
+**Haladó:** AZ előző helyett oldjatok meg a HackerRanken 2 medium/4 easy/1 medium 2 easy feladatot. 
 
 4. Megoldani a tojásos példát, amire 
 [itt](https://jkg-evaluators.readthedocs.io/en/latest/notebooks/002-dropping-the-egg.html) 
