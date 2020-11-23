@@ -7,3 +7,5 @@ Ezért ugye az is fontos hogy sűrűn ellenőrizzétek, kommentelt-e valaki a ti
 A "rájöttem hogy mit akart de szarul írta le" észrevételeket is be lehet kommentelni egymásnak.
 
 A keretet, amiben kipróbálhatjátok a megoldásaitokat itt a saját mappátokban, a 10. héthez tartozó almappában találjátok round2 néven.
+
+**Határidő a kurzus kezdete**
