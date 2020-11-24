@@ -1,0 +1,5 @@
+
+Először definiálom a függvényt, megadva a paramétereit, a listát és a számot. 
+Ezután a lista elemein iterálok, a ciklusmagban azt vizsgálva, hogy a lista legnagyobb eleme megfelel-e a kritériumnak. A kritérium, hogy a lista legnagyobb olyan elemét adja ami a paraméterben szereplő számmal páros hányadost ad.
+Amennyiben nem felel meg a kritériumnak, a ciklus folytatódik és eltávolítja a listából a legnagyobb nem megfelelő elemet. 
+Ha a ciklus nem talál az adott listában a kritériumnak megfelelő elemet, a visszaadási érték 0, ha talál megfelelő elemet, akkor a visszaadási érték az lesz.

@@ -1,0 +1,9 @@
+from jkg_evaluators import string_with_most_a_letters as MendolM
+from jkg_evaluators import largest_multiple as KeglV
+from jkg_evaluators import largest_multiple as KalotaiB
+from jkg_evaluators import sum_odd_positives as BaratA
+from jkg_evaluators import largest_even_divided as ValentinyiA
+from jkg_evaluators import word_with_most_of_letters as BalazsJ
+from jkg_evaluators import largest_even_divided as TompaM
+from jkg_evaluators import smallest_where_double_also as VelkeyA
+from jkg_evaluators import string_with_most_a_letters as PapS
