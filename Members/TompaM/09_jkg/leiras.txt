@@ -1,0 +1,5 @@
+A program célja, hogy egy adott n elemű listából megtalálja azt a legnagyobb elemet, ami egy adott x számmal elosztva páros hányadost eredményez.
+Ehhez először definiáljuk a függvényünket, megadva a paramétereit, a listát és a számot. 
+Ezután a lista elemein iterálok, a ciklusmagban azt vizsgálva, hogy a lista legnagyobb eleme megfelel-e a kritériumnak. Amennyiben igen, a visszaadási érték a legnagyobb elem.
+Amennyiben nem felel meg a kritériumnak, a ciklus folytatódik és eltávolítja a listából a legnagyobb nem megfelelő elemet. 
+Ha a ciklus nem talál az adott listában a kritériumnak megfelelő elemet, a visszaadási érték 0.
