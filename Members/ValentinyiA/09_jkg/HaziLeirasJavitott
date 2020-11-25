@@ -1,0 +1,4 @@
+Első lépésként definiáltam a függvényt és megadtam a paramétereit. Ezután definiáltam a listát a megadott paraméterekből származó inputnak megfelelően. Következő lépésként végig iteráltam a listán, az iteráció ciklusmagjában a lista elemeit vizsgálva. A programmal olyan páros elemeket kerestem, amelyek a paraméterben szereplő számmal elosztva páros számot adnak. A cél az volt, hogy a programom megtalálja a legnagyobb elemet, amely megfelel ennek a kritériumnak. Ha nem felel meg ennek a kritériumnak, a program eltávolítja a listából a legnagyobb nem megfelelő elemet és az iteráció folytatódik. 
+Az utolsó lépés a függvény visszatérési értékének megadása. A visszatérési érték a legnagyobb olyan elem less, amelyet ha elosztunk, páros számot kapunk. Amennyiben a ciklus nem talál egy ilyen értéket, a visszaadási érték nulla less.
+
+
