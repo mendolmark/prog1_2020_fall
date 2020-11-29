@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "/Users/andor/git/prog1_2020_fall",
+        "${workspaceFolder}/libraries"],
+    "python.autoComplete.addBrackets": true
+}
