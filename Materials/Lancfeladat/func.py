@@ -17,10 +17,14 @@ def cal_diff(ev, honap, nap):
     eltelt_evek = most_ev - ev
     eltelt_napok = eltelt_evek * 365
     
-    szokonapok = 0
-    while eltelt_evek >= 0:
+    szokoev = lambda ev: (ev % 4 == 0 and ev % 100 != 0) or (ev % 400 == 0)
+    szokonapok = len([*filter(szokoev, [*range(ev + 1, most_ev)])])
+    
+    if szokoev(most_ev) and most_honap > 2:
         szokonapok += 1
-        eltelt_evek -= 4
+    
+    if szokoev(ev) and honap < 3:
+        szokonapok += 1
         
     eltelt_napok += szokonapok
     
