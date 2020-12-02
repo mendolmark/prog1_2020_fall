@@ -1,0 +1,7 @@
+A függvényem a korábban deklarált adatokat (input) egy integer listaba rendezi majd visszatérési értékként
+ megadja az összehasonlítas után a kiértékelt legnagyobb és az utolsó előtti szorzatát.
+
+•	Első lépésként definiáltam a függvényt, aminek paramétere egy minimum két elemű integer lista.
+•	A lista elemeit sorba rendezem, beépített függvény segítségével
+•	0-ról indulva, növekvő sorrendben, addig iterálok, hogy a listából fokozatosan eltávolítom az elemeket amíg már csak két elem marad.
+•	Returnként a két megmaradt elem szorzatát adom. 
