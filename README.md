@@ -12,5 +12,6 @@ This repo contains all materials for the 2020 fall course in *Programming and Th
 - [for course 9](Materials/Course_preps/into_course_09.md)
 - [for course 10](Materials/Course_preps/into_course_10.md)
 - [for course 11](Materials/Course_preps/into_course_11.md)
+- [for course 12](Materials/Course_preps/into_course_12.md)
 
 ### [Course slides](https://django.rajk.uni-corvinus.hu/teach/course/prog1)
